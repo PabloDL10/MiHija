@@ -33,6 +33,7 @@ Si quieres informarte sobre gatos vete a la [Wikipedia](https://es.wikipedia.org
 <li>Los gatos son muy cariñosos y tienen un gran carácter, pero también valoramos su independencia, es decir, necesitan menos cuidados que otras mascotas.</li>
 <li>Los gatos pueden ayudar a las personas a recuperarse más rápido de un trauma emocional, como el fallecimiento de un ser querido.</li>
 
+---
 
 ## Datos de los Gatos
 
@@ -42,7 +43,7 @@ Si quieres informarte sobre gatos vete a la [Wikipedia](https://es.wikipedia.org
 - [ ] Son muy agresivos
 - [ ] Son poco juguetones
 
-
+---
 
 ```java
 <!DOCTYPE html>
